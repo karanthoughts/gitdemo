@@ -23,4 +23,11 @@ public class restapiTest {
 		System.out.println("deletetwitter");
 		
 	}
+	
+	@Test
+	public void deletetwitter1()
+	{
+		System.out.println("deletetwitterabcde");
+		
+	}
 }
