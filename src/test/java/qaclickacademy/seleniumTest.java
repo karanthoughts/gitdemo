@@ -24,5 +24,11 @@ public class seleniumTest {
 	{
 		System.out.println("elementsytytytui");
 	}
+	
+	@Test
+	public void elementsui11()
+	{
+		System.out.println("elementsytytytwetyteytuewyreyrui");
+	}
 }
 
